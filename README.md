@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/adityamaurya395/leedcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/adityamaurya395/leedcode/tree/master/0054-spiral-matrix) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityamaurya395/leedcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityamaurya395/leedcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityamaurya395/leedcode/tree/master/0054-spiral-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityamaurya395/leedcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityamaurya395/leedcode/tree/master/0069-sqrtx) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/adityamaurya395/leedcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
