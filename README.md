@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adityamaurya395/leedcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityamaurya395/leedcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/adityamaurya395/leedcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/adityamaurya395/leedcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityamaurya395/leedcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/adityamaurya395/leedcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
