@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityamaurya395/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/adityamaurya395/leedcode/tree/master/0012-integer-to-roman) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityamaurya395/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/adityamaurya395/leedcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/adityamaurya395/leedcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/adityamaurya395/leedcode/tree/master/0067-add-binary) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityamaurya395/leedcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adityamaurya395/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
