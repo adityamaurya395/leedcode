@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adityamaurya395/leedcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityamaurya395/leedcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/adityamaurya395/leedcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adityamaurya395/leedcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/adityamaurya395/leedcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/adityamaurya395/leedcode/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityamaurya395/leedcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityamaurya395/leedcode/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/adityamaurya395/leedcode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/adityamaurya395/leedcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 | [1920-build-array-from-permutation](https://github.com/adityamaurya395/leedcode/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityamaurya395/leedcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/adityamaurya395/leedcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/adityamaurya395/leedcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityamaurya395/leedcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/adityamaurya395/leedcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adityamaurya395/leedcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/adityamaurya395/leedcode/tree/master/0089-gray-code) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -144,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/adityamaurya395/leedcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/adityamaurya395/leedcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
