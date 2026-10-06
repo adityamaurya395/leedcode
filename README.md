@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adityamaurya395/leedcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityamaurya395/leedcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityamaurya395/leedcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/adityamaurya395/leedcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityamaurya395/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adityamaurya395/leedcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/adityamaurya395/leedcode/tree/master/0067-add-binary) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adityamaurya395/leedcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/adityamaurya395/leedcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adityamaurya395/leedcode/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityamaurya395/leedcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityamaurya395/leedcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
