@@ -4,5 +4,6 @@ class Solution:
         maxsum=curr
         for i in range(k,len(nums)):
             curr+=nums[i]-nums[i-k]
-            maxsum=max(maxsum,curr)
+            if maxsum<curr:
+                maxsum=curr
         return maxsum/k   
